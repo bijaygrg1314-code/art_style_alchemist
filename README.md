@@ -3,7 +3,7 @@
 ## Student name: Bijaya Gurung
 ## Student number: 2322514
 ## Project title: art_style_alchemist
-## Link to project video recording: [INSERT LINK HERE]
+## Link to project video recording: https://drive.google.com/file/d/1chvkKxVCTvDh85I1IUeH0WI4XZZQLO15/view?usp=drivesdk
 
 ---
 
